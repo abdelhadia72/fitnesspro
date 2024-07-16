@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo&family=Inter:wght@400;500;600;700&family=Lato:wght@300;400;700&family=Lily+Script+One&family=Open+Sans:wght@400;500;600;700&family=PT+Serif&family=Playfair+Display:wght@400;500;600;700&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #141416;
+  color: white;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'sfpro';
+  src: url('/assets/fonts/SFPRODISPLAYREGULAR.OTF') format('OTF');
+}
+
+.between,
+.icon {
+  position: relative;
+}
+
+.steps .setp:not(:first-child) .icon::before {
+  content: '';
+  height: 10px;
+  width: 10px;
+  border: 1px white solid;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: -25px;
+  border-radius: 50%;
+}
+.steps .setp:not(:last-child) .icon::after {
+  content: '';
+  height: 10px;
+  width: 10px;
+  border: 1px white solid;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: -25px;
+  border-radius: 50%;
+}
+
+/* .steps .setp:not(:first-child) .icon {
+  border: 4px red solid;
+} */
+
+.between::after {
+  content: '';
+  height: 2px;
+  width: 140px;
+  top: 50%;
+  left: 60px;
+  border: 1px white dashed;
+  position: absolute;
+}
+
+/* style swiper button  */
+.swiper-button-next:after,
+.swiper-rtl .swiper-button-prev:after {
+  content: 'next';
+  font-size: 20px;
+  position: absolute;
+  bottom: 0;
+  color: white;
+}
+
+.swiper-button-prev:after,
+.swiper-rtl .swiper-button-next:after {
+  content: 'next';
+  font-size: 20px;
+  position: absolute;
+  bottom: 0;
+  color: white;
+}
+
+.mx1200 {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+}

@@ -1,0 +1,44 @@
+{
+  "trainers": [
+    {
+      "name": "John Smith",
+      "profession": "Personal Trainer",
+      "company": "FitLife Gym",
+      "image": "lifestyle1.png",
+      "review": {
+        "author": "Jane Doe",
+        "text": "John is an amazing trainer! He really knows his stuff and helped me achieve my fitness goals."
+      }
+    },
+    {
+      "name": "Emily Chen",
+      "profession": "Yoga Instructor",
+      "company": "Om Yoga Studio",
+      "image": "lifestyle2.png",
+      "review": {
+        "author": "John Lee",
+        "text": "Emily is an incredible yoga teacher! Her classes are challenging but also very relaxing."
+      }
+    },
+    {
+      "name": "Alex Rodriguez",
+      "profession": "CrossFit Coach",
+      "company": "Barbell Club",
+      "image": "lifestyle3.png",
+      "review": {
+        "author": "Sarah Johnson",
+        "text": "Alex is the best CrossFit coach I've ever had! He pushes me to my limits but also keeps things fun and motivating."
+      }
+    },
+    {
+      "name": "David Lee",
+      "profession": "Pilates Instructor",
+      "company": "Pilates Plus",
+      "image": "lifestyle4.png",
+      "review": {
+        "author": "Amy Chen",
+        "text": "David is a fantastic Pilates instructor! He really understands the body and how to get the most out of each exercise."
+      }
+    }
+  ]
+}

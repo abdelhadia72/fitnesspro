@@ -1,0 +1,70 @@
+{
+  "faqs": [
+    {
+      "id": "1",
+      "category": "General",
+      "question": "How often should I work out?",
+      "answer": "It's recommended to work out at least 3-4 times per week for optimal health benefits."
+    },
+    {
+      "id": "2",
+      "category": "General",
+      "question": "What's the best time of day to exercise?",
+      "answer": "It really depends on your schedule and preferences, but many people find that working out in the morning helps them feel energized and sets a positive tone for the day."
+    },
+    {
+      "id": "3",
+      "category": "General",
+      "question": "How long should I exercise for?",
+      "answer": "Aim for at least 30 minutes of moderate-intensity exercise per day, or 150 minutes per week. You can break this up into smaller sessions throughout the day if needed."
+    },
+    {
+      "id": "4",
+      "category": "General",
+      "question": "What's the difference between cardio and strength training?",
+      "answer": "Cardio exercises, like running or cycling, focus on improving cardiovascular health and burning calories. Strength training exercises, like lifting weights, focus on building muscle and increasing strength."
+    },
+    {
+      "id": "5",
+      "category": "General",
+      "question": "Is it okay to exercise if I'm sore?",
+      "answer": "It's generally safe to exercise if you're a little sore, but listen to your body and don't push yourself too hard. If you're experiencing severe pain or discomfort, take a break and let your body recover."
+    },
+    {
+      "id": "6",
+      "category": "General",
+      "question": "What should I eat before and after a workout?",
+      "answer": "Before a workout, it's best to eat a small snack with carbs and protein to give you energy. After a workout, aim for a balanced meal with protein and carbs to help your body recover and build muscle."
+    },
+    {
+      "id": "7",
+      "category": "Trainers",
+      "question": "How can a personal trainer help me reach my fitness goals?",
+      "answer": "A personal trainer can create a personalized workout plan based on your goals and fitness level, provide guidance and support during workouts, and help you stay motivated and accountable."
+    },
+    {
+      "id": "8",
+      "category": "Trainers",
+      "question": "How often should I meet with a personal trainer?",
+      "answer": "It depends on your goals and budget, but many people meet with a personal trainer once or twice a week."
+    },
+    {
+      "id": "9",
+      "category": "Trainers",
+      "question": "How do I find a good personal trainer?",
+      "answer": "Look for someone with proper certification and experience, as well as good reviews and testimonials from past clients."
+    },
+    {
+      "id": "10",
+      "category": "Subscription",
+      "question": "What's included in a fitness subscription?",
+      "answer": "It depends on the specific subscription, but many offer access to a variety of workout classes, online workouts, nutrition resources, and community support."
+    },
+    {
+      "id": "11",
+      "category": "Subscription",
+      "question": "How much does a fitness subscription cost?",
+      "answer": "It depends on the specific subscription, but many offer access to a variety of workout classes, online workouts, nutrition resources, and community support."
+    }
+  ]
+}

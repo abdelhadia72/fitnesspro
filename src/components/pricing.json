@@ -1,0 +1,64 @@
+{
+  "plans": [
+    {
+      "name": "Basic",
+      "price": 9.27,
+      "discription": "14 days of free trial",
+      "button": "Start free trail",
+      "color": "#9757D7",
+      "pup": false,
+      "features": {
+        "Time-Trackers": true,
+        "Exclusive Music": false,
+        "E-books": false,
+        "Documents": false,
+        "Premium Tutorial": false,
+        "Client Support": true,
+        "Premium Courses": false,
+        "User support": true,
+        "Chat to trainers": false,
+        "Unlimited Videos": false
+      }
+    },
+    {
+      "name": "Premium",
+      "price": 20.37,
+      "discription": "Fit with everyone",
+      "button": "Get Started",
+      "color": "#FF592C",
+      "pup": true,
+      "features": {
+        "Time-Trackers": true,
+        "Exclusive Music": true,
+        "E-books": true,
+        "Documents": true,
+        "Premium Tutorial": true,
+        "Client Support": true,
+        "Premium Courses": false,
+        "User support": true,
+        "Chat to trainers": true,
+        "Unlimited Videos": false
+      }
+    },
+    {
+      "name": "Unlimited Access",
+      "price": 31.99,
+      "discription": "Are you pro? Let’s do it",
+      "button": "Contact sale",
+      "color": "#EF466F",
+      "pup": false,
+      "features": {
+        "Time-Trackers": true,
+        "Exclusive Music": true,
+        "E-books": true,
+        "Documents": true,
+        "Premium Tutorial": true,
+        "Client Support": true,
+        "Premium Courses": true,
+        "User support": true,
+        "Chat to trainers": true,
+        "Unlimited Videos": true
+      }
+    }
+  ]
+}
